@@ -2,7 +2,7 @@
 
 
 def test():
-	return 'test'
+	return 'test1'
 
 
 print(test())
